@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dazzle246
 - 👀 I’m interested in Cloud tech
 - 🌱 I’m currently learning Modern Engineering
-- 💞️ I’m looking to collaborate on anythning simple
+- 💞️ I’m looking to collaborate on anything simple
 - 📫 How to reach me ...
 
 <!---
